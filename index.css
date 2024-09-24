@@ -236,7 +236,7 @@ body {
 .volunteer-content {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between; 
     text-align: center;
     align-items: center;
     margin-top: 20px;
